@@ -4,6 +4,7 @@
 
 ## I'm a Student and Developer!!
 - 🔭 Social media for college students my production project: [www.collegefellow.social][project]!
+- 📚 I’m student at MNIT Jaipur CSE
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
